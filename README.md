@@ -13,9 +13,3 @@ This project presents an interactive **Tourism Analysis of Nepal** using **Micro
 - **Line & Clustered Column Chart** – Comparison of tourism categories with total tourism
 - **Pie/Donut Chart** – Tourism category contribution
 - **Province-wise Charts** – Cultural, Adventure, and Wildlife tourism analysis
-
-
-
-
-
-
